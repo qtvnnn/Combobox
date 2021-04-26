@@ -80,3 +80,7 @@ input:focus {
 .dropdown-item:hover{
     background: #e9ecef;
 }
+
+.warning{
+    border: 1px solid red ;
+}
